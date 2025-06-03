@@ -7,10 +7,10 @@ The project includes:
 
 ## 🔧 Running Firebase Functions Locally
 
-1. **Navigate to the `firebase_functions/` folder**:
+1. **Navigate to the `functions/` folder**:
 
 ```bash
-cd firebase_functions
+cd functions
 ```
 
 2. **Install dependencies**:
