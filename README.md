@@ -7,27 +7,28 @@ The project includes:
 
 ## 🔧 Running Firebase Functions Locally
 
-1. **Navigate to the `functions/` folder**:
+```zsh
+# Install firebase tools
+curl -sL https://firebase.tools | bash
+```
 
-```bash
+```zsh
+# Navigate to the `functions/` folder
 cd functions
 ```
 
-2. **Install dependencies**:
-
-```bash
+```zsh
+# Install dependencies
 npm install
 ```
 
-3. **Build the functions**:
-
-```bash
+```zsh
+# Build the functions
 npm run build
 ```
 
-4. **Start the Firebase Functions emulator**:
-
-```bash
+```zsh
+# Start the Firebase Functions emulator
 npm run serve
 ```
 
