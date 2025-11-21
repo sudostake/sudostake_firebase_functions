@@ -1,4 +1,4 @@
-# 🌐 Sudostake Firebase Functions
+# 🌐 SudoStake Firebase Functions
 
 The project includes:
 - **Firebase Cloud Functions** written in TypeScript for backend logic and API routes.
